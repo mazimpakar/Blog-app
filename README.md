@@ -5,8 +5,8 @@ This is an application that allows a writer to publish blogs and users can view 
 ### Setup/Installation Requirements
 To clone this click here https://github.com/mazimpakar/Blog
 ## Run this command lines in your terminal:
-* in database:ip2=# \dt shows tables
-* To see one of table just write ip2/ SELECT * FROM name of table;
+* in database:blogs=# \dt shows tables
+* To see one of table just write blogs/ SELECT * FROM name of table;
 * ./start.sh
 * python3.6 manage.py shell
 ## Technologies Used
@@ -18,7 +18,7 @@ Flask
 
 * Email: rosemazimpaka2@gmail.com
 * Phone: 0786950337
-* Contact address:Rwanda
+* Whatapp number:0786950337
 
 ## License
 * MIT Copyright (c) 2019 Mazimpaka
