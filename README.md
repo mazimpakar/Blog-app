@@ -1,5 +1,5 @@
 ### Blog website
-## Created by:mazimpaka m .rose
+## Author:mazimpaka m .rose
 ## Description
 This is an application that allows a writer to publish blogs and users can view and comment on the blogs posted.
 ### Setup/Installation Requirements
