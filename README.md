@@ -10,7 +10,7 @@ To clone this click here https://github.com/mazimpakar/Blog
 * ./start.sh
 * python3.6 manage.py shell
 ## Technologies Used
- * html
+ * Html
  * Python v3.6
  * Boostrap
  * Flask
