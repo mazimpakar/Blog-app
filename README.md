@@ -14,8 +14,8 @@ To clone this click here https://github.com/mazimpakar/Blog
  * Python v3.6
  * Boostrap
  * Flask
- 
-##contacts:
+
+## Contacts:
 
 * Email: rosemazimpaka2@gmail.com
 * Phone: 0786950337
