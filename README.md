@@ -3,7 +3,7 @@
 ## Description
 This is an application that allows a writer to publish blogs and users can view and comment on the blogs posted.
 ### Setup/Installation Requirements
-To clone this click here https://github.com/mazimpakar/Blog
+To clone this click here https://github.com/mazimpakar/Blog-app
 ## Run this command lines in your terminal:
 * in database:blogs =# \dt shows tables
 * To see one of table just write blogs/ SELECT * FROM name of table;
