@@ -16,7 +16,7 @@
       {% if user == current_user %}
       <form action="{{url_for('main.update_pic',uname=user.username)}}" method="post" enctype="multipart/form-data">
         <input type="file" name="photo" class="form-control" required>
-        <button class="btn" type="submit" style="margin-top: 10px; background-color:blueviolet ; color: #fff;">Update Profile Picture</button>
+        <button class="btn" type="submit" style="margin-top: 10px; background-color:rgb(12, 130, 167) ; color: #fff;">Update Profile Picture</button>
       </form>
       {% endif %}
     </div>
@@ -30,7 +30,7 @@
       {% endif %}
 
       {% if user == current_user %}
-      <a class="btn" style="background-color: blueviolet; color: #fff;" href="{{url_for('main.update_profile',uname=user.username)}}">Edit Bio</a>
+      <a class="btn" style="background-color: rgb(13, 97, 146); color: #fff;" href="{{url_for('main.update_profile',uname=user.username)}}">Edit Bio</a>
       {% endif %}
     </div>
   </div>
