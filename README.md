@@ -23,7 +23,7 @@ To clone this click here https://github.com/mazimpakar/Blog-app
 
 
 ## Copyright
- copyright (c) 2019[Mazimpaka M.Rose]
+ copyright (c) 2019 Mazimpaka M.Rose
 
 ## Licence
  This software mazimpakar/Blog app is licensed under the MIT License
