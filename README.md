@@ -5,7 +5,7 @@ This is an application that allows a writer to publish blogs and users can view 
 ### Setup/Installation Requirements
 To clone this click here https://github.com/mazimpakar/Blog
 ## Run this command lines in your terminal:
-* in database:blogs=# \dt shows tables
+* in database:blogs =# \dt shows tables
 * To see one of table just write blogs/ SELECT * FROM name of table;
 * ./start.sh
 * python3.6 manage.py shell
@@ -23,10 +23,10 @@ To clone this click here https://github.com/mazimpakar/Blog
 
 
 ## Copyright
- * copyright (c) 2019[Mazimpaka M.Rose]
+ copyright (c) 2019[Mazimpaka M.Rose]
 
 ## Licence
- * This software mazimpakar/Blog app is licensed under the MIT License
+ This software mazimpakar/Blog app is licensed under the MIT License
 
 
 
