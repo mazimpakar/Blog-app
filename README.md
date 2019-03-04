@@ -10,18 +10,22 @@ To clone this click here https://github.com/mazimpakar/Blog
 * ./start.sh
 * python3.6 manage.py shell
 ## Technologies Used
-html
-Python v3.6
-Boostrap
-Flask
+ * html
+ * Python v3.6
+ * Boostrap
+ * Flask
 ##contacts:
 
 * Email: rosemazimpaka2@gmail.com
 * Phone: 0786950337
 * Whatapp number:0786950337
 
-## License
-* MIT Copyright (c) 2019 Mazimpaka
+
+## Copyright
+ * copyright (c) 2019[Mazimpaka M.Rose]
+
+## Licence
+ * This software mazimpakar/Blog app is licensed under the MIT License
 
 
 
